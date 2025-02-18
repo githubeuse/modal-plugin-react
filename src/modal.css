@@ -51,3 +51,7 @@
   text-indent: 0;
   background-image: none;  
 }
+
+.modal-close:hover {
+  background: #94ad188a;
+}
